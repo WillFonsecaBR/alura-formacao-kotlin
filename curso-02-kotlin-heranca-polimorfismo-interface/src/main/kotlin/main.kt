@@ -1,5 +1,7 @@
 fun main() {
+    // DECLARANDO OBJETO FUNCIONARIO DA CLASSE FUNCIONARIO
     val funcionario1 = funcionario(
+        // DECLA
         nome = "Willian Fonseca",
         matricula = 2021,
         salario = 5000.00,

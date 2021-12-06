@@ -1,3 +1,5 @@
+import jdk.dynalink.beans.StaticClass
+
 class gerente(
     val nome: String,
     val matricula: Int,
@@ -26,5 +28,4 @@ class gerente(
         println("Salario: ${this.salario}")
         println("========================================")
     }
-
 }
